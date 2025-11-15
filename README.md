@@ -6,18 +6,18 @@
 
   
   
-<h2>🧐 Features</h2>
+<h2>Funkcje</h2>
 
-Here're some of the project's best features:
+Aktualne funkcje programu:
 
 *   dc stealer
 *   key logger
 *   więcej niedlugo...
 
-<h2>🛡️ License:</h2>
+<h2> License:</h2>
 
 This project is licensed under the MIT license
 
-<h2>💖Like my work?</h2>
+<h2>Pomoc</h2>
 
 Jeśli napotkałeś jakiś problem albo masz pomysł na jakieś ulepszenia pisz śmiało na podane konto Discord.<p>DISCORD: nwmtam</p>
