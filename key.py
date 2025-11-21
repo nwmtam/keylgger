@@ -1,7 +1,7 @@
 # NAPISANE PRZEZ NIC3 (nwmtam)
 # MADE BY NIC3 (nwmtam)
 # EDUCATIONAL PURPOSES ONLY
-# urzywaj tylko na swoich urządzeniach
+# używaj tylko na swoich urządzeniach
 import os
 import platform
 import socket
