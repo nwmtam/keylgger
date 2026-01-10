@@ -1,4 +1,4 @@
-<h1 align="center" id="title">KEYLGGER</h1>
+<h1 align="center" id="title">KEYLOGGER</h1>
 
 <p align="center"><img src="https://socialify.git.ci/nwmtam/keylgger/image?font=Rokkitt&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;theme=Dark" alt="project-image"></p>
 
